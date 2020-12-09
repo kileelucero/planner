@@ -1,46 +1,31 @@
-# 05 Third-Party APIs: Work Day Scheduler
+# planner
+![License: none](https://img.shields.io/badge/License-none-blue.svg)
+## Description
+Web Based Planner
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Link to live site: [planner](https://kileelucero.github.io/planner/)
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+## Table of Contents
 
-## User Story
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
 
-```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
-
-## Acceptance Criteria
-
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
-
-The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+## Installation
+Run In Browser
+## Usage
+Used To Plan Day/Week Accordingly
+## License
+none
+Copyright (c) 2020 Kilee Lucero
+## Contribution
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owner(s) of this repository before making a change.
+## Tests
+None
+## Questions
+For any questions the author can be contacted at:
+GitHub: @[kileelucero](https://github.com/kileelucero)
+Email: kileelucero@gmail.com
